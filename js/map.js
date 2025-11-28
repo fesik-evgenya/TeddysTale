@@ -25,7 +25,7 @@ function initMap(center = [59.819987, 30.337649], zoom = 13, elementId = 'map') 
         });
 
         // Путь к логотипу
-        const logoPath = '/assets/icon/teedy-logo.svg';
+        const logoPath = './assets/icon/teedy-logo.svg';
 
         // Размеры метки
         const iconSize = [30, 30];
